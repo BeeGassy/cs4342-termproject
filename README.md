@@ -1,1 +1,1 @@
-# cs4342-termproject
+# CS-4342: Wine Classifier
